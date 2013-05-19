@@ -10,9 +10,6 @@ Replace it with this one but make sure you have a copy of original!!!!
 Not liable for anything that may happen to the user for using this game mod
 
 
-APBr-Shader-SkyrimMod
-=====================
-
 Port of the Skryim mod "[FXAA Post Process Injector](http://skyrim.nexusmods.com/mods/131)"
 
 ###### Usage:
